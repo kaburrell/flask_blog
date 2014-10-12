@@ -1,0 +1,8 @@
+venv
+.pyc
+
+# Sublime Text editor project files
+*.sublime-workspace
+*.sublime-project
+
+
